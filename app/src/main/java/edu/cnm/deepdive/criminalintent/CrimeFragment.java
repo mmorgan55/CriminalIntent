@@ -65,6 +65,6 @@ public class CrimeFragment extends Fragment {
     mDateButton.setText(mCrime.getmDate().toString());
     mDateButton.setEnabled(false);
 
-    return  v;
+    return v;
   }
 }
